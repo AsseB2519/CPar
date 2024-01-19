@@ -1,1 +1,1 @@
-# CPar
+# Parallel Computing
